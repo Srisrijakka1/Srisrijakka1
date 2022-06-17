@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 <a href="https://codeforces.com/profile/srisri_j1"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="30" width="40"></a>
 <a href="https://auth.geeksforgeeks.org/user/srisrijakka/profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"></a>
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Srisrijakka1&show_icons=true&locale=en&layout=compact">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srisrijakka1&">
