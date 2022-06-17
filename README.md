@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 <img src="https://komarev.com/ghpvc/?username=iSrisrijakka1&label=Profile Views&color=blue&style=plastic">
 <img src="https://github-readme-stats.vercel.app/api?username=Srisrijakka1&&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=ffa500&bg_color=daf7dc">
+<!🌐Social> 
+<img src="https://github-profile-trophy.vercel.app/?username=Srisrijakka1">
