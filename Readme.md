@@ -3,11 +3,14 @@
 <!-- ████████████████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=glitchy&height=300&color=gradient&customColorList=6,12,14,20,24&text=SRISRI%20JAKKA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=◈%20AGENTIC%20AI%20ENGINEER%20%20▸%20%20AUTONOMOUS%20SYSTEMS%20ARCHITECT%20%20▸%20%20CLOUD%20INTELLIGENCE%20◈&descAlignY=65&descSize=18" width="100%"/>
+  <h1 align="center">🌠 SRISRI JAKKA 🌠</h1>
+  <p align="center">
+    <strong>◈ AGENTIC AI ENGINEER  ▸  AUTONOMOUS SYSTEMS ARCHITECT  ▸  CLOUD INTELLIGENCE ◈</strong>
+  </p>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1800&pause=400&color=BB2ACF&center=true&vCenter=true&width=1000&lines=▸+TRANSMISSION+INTERCEPTED...;▸+DECRYPTING+NEURAL+ARCHITECTURE+FILE...;▸+IDENTITY+CONFIRMED+%3A+SRISRI+JAKKA;▸+LOADING+9-AGENT+AUTONOMOUS+STLC+SWARM...;▸+ACTIVATING+GOOGLE+ADK+%2B+MCP+%2B+A2A+MESH...;▸+CALIBRATING+SELF-HEALING+RECOVERY+ENGINE...;▸+SYNCING+AWS+TRIPLE-CERTIFIED+CLOUD+LAYER...;◈+MISSION+CONTROL+ONLINE+—+ALL+SYSTEMS+NOMINAL+◈" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=1800&pause=400&color=BB2ACF&center=true&vCenter=true&width=1000&lines=▸+TRANSMISSION+INTERCEPTED...;▸+DECRYPTING+NEURAL+ARCHITECTURE+FILE...;▸+IDENTITY+CONFIRMED+%3A+SRISRI+JAKKA;▸+LOADING+9-AGENT+AUTONOMOUS+STLC+SWARM...;▸+ACTIVATING+GOOGLE+ADK+%2B+MCP+%2B+A2A+MESH...;▸+CALIBRATING+SELF-HEALING+RECOVERY+ENGINE...;▸+SYNCING+AWS+TRIPLE-CERTIFIED+CLOUD+LAYER...;◈+MISSION+CONTROL+ONLINE+—+ALL+SYSTEMS+NOMINAL+◈" />
 </div>
 
 <br/>
@@ -230,21 +233,18 @@ pie title Engineering Domain Distribution
 
 <div align="center">
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║ CERTIFICATION REGISTRY — SRISRI JAKKA ║
+║          CERTIFICATION REGISTRY — SRISRI JAKKA            ║
 ╠═══════════════════════════════════════════════════════════════════════════════╣
-║ ║
-║ [✓] AWS AI PRACTITIONER AMAZON WEB SERVICES ║
-║ [✓] AWS DATA ENGINEER ASSOCIATE AMAZON WEB SERVICES ║
-║ [✓] AWS SOLUTIONS ARCHITECT ASSOCIATE AMAZON WEB SERVICES ║
-║ [✓] OCI 2024 GENERATIVE AI PROFESSIONAL ORACLE CLOUD ║
-║ [✓] VIRTUSA TRACE PROJECT — TOP 15 GENAI IDEAS VIRTUSA GLOBAL 🏆 ║
-║ [✓] CODECHEF 3-STAR · MAX RATING: 1649 COMPETITIVE CODING ║
-║ [✓] HACKERRANK 4-STAR PROBLEM SOLVER COMPETITIVE CODING ║
-║ ║
+║                                                                               ║
+║  [✓] AWS AI PRACTITIONER              AMAZON WEB SERVICES                     ║
+║  [✓] AWS DATA ENGINEER ASSOCIATE      AMAZON WEB SERVICES                     ║
+║  [✓] AWS SOLUTIONS ARCHITECT ASSOCIATE AMAZON WEB SERVICES                     ║
+║  [✓] OCI 2024 GENERATIVE AI PROFESSIONAL   ORACLE CLOUD                       ║
+║  [✓] VIRTUSA TRACE PROJECT — TOP 15 GENAI IDEAS    VIRTUSA GLOBAL 🏆          ║
+║  [✓] CODECHEF 3-STAR · MAX RATING: 1649     COMPETITIVE CODING                ║
+║  [✓] HACKERRANK 4-STAR PROBLEM SOLVER       COMPETITIVE CODING                ║
+║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
-
-text
-
 </div>
 
 ---
@@ -253,19 +253,19 @@ text
 
 <div align="center">
   <a href="https://github.com/Srisrijakka1/BedRock-Model-ChatGpt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=BedRock-Model-ChatGpt&theme=tokyonight&border_color=bb2acf&title_color=bb2acf&icon_color=bb2acf" />
+    <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Srisrijakka1&repo=BedRock-Model-ChatGpt&theme=tokyonight&border_color=bb2acf&title_color=bb2acf&icon_color=bb2acf" />
   </a>
   <a href="https://github.com/Srisrijakka1/Real-Time-Face-Recognition-Based-Attendance-Monitoring-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=Real-Time-Face-Recognition-Based-Attendance-Monitoring-System&theme=tokyonight&border_color=bb2acf&title_color=bb2acf&icon_color=bb2acf" />
+    <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Srisrijakka1&repo=Real-Time-Face-Recognition-Based-Attendance-Monitoring-System&theme=tokyonight&border_color=bb2acf&title_color=bb2acf&icon_color=bb2acf" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Srisrijakka1/UART-Design-simulation-using-verilog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=UART-Design-simulation-using-verilog&theme=tokyonight&border_color=bb2acf&title_color=bb2acf&icon_color=bb2acf" />
+    <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Srisrijakka1&repo=UART-Design-simulation-using-verilog&theme=tokyonight&border_color=bb2acf&title_color=bb2acf&icon_color=bb2acf" />
   </a>
   <a href="https://github.com/Srisrijakka1/VEHICLE_NUMBER_PLATE_DETECTION_USING_OPENCV_BY_DIGITAL_IMAGE_PROCESSING">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=VEHICLE_NUMBER_PLATE_DETECTION_USING_OPENCV_BY_DIGITAL_IMAGE_PROCESSING&theme=tokyonight&border_color=bb2acf&title_color=bb2acf&icon_color=bb2acf" />
+    <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Srisrijakka1&repo=VEHICLE_NUMBER_PLATE_DETECTION_USING_OPENCV_BY_DIGITAL_IMAGE_PROCESSING&theme=tokyonight&border_color=bb2acf&title_color=bb2acf&icon_color=bb2acf" />
   </a>
 </div>
 
@@ -274,8 +274,8 @@ text
 ## 📊 LIVE TELEMETRY COMMAND PANEL
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Srisrijakka1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_color=bb2acf&ring_color=bb2acf&icon_color=bb2acf&title_color=bb2acf"/>
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srisrijakka1&layout=compact&langs_count=10&theme=tokyonight&border_color=bb2acf&title_color=bb2acf"/>
+  <img height="185" src="https://github-readme-stats-alpha.vercel.app/api?username=Srisrijakka1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_color=bb2acf&ring_color=bb2acf&icon_color=bb2acf&title_color=bb2acf"/>
+  <img height="185" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Srisrijakka1&layout=compact&langs_count=10&theme=tokyonight&border_color=bb2acf&title_color=bb2acf"/>
 </div>
 
 <div align="center">
@@ -294,7 +294,7 @@ text
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srisrijakka1&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=Srisrijakka1&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
 </div>
 
 ---
@@ -394,5 +394,8 @@ collaboration:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=gradient&customColorList=6,12,14,20,24&text=TRANSMISSION+COMPLETE+%2F%2F+SYSTEM+READY&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Virtusa%20Corporation%20%20▸%20%20Srisri%20Jakka%20%20▸%20%20Architecting%20Autonomy%20Since%202022&descAlignY=72&descSize=14" width="100%"/>
+  <h3 align="center">◈ TRANSMISSION COMPLETE // SYSTEM READY ◈</h3>
+  <p align="center">
+    <strong>Virtusa Corporation  ▸  Srisri Jakka  ▸  Architecting Autonomy Since 2022</strong>
+  </p>
 </div>
