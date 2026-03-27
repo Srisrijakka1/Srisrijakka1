@@ -1,94 +1,91 @@
-# <p align="center">🚀 SRISRI JAKKA | Agentic AI Specialist & Cloud Solutions Architect</p>
+# <p align="center">🌠 SRISRI JAKKA | Agentic AI & Cloud Architecture Elite 🌠</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-Agentic%20Orchestrator-bb2acf?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-Triple%20AWS%20Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Srisrijakka1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Srisrijakka1&show_icons=true&theme=tokyonight&title_color=bb2acf&icon_color=bb2acf&text_color=ffa500&bg_color=0d1117" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Srisrijakka1&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=bb2acf" alt="Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srisrijakka1&theme=tokyonight&stroke=bb2acf&ring=ffa500&fire=ffa500&currStreakNum=ffa500" alt="Streak Stats" />
-</div>
-
----
-
-### 🧐 Professional Identity
-As a **Generative AI Engineer**, I bridge the gap between human intuition and autonomous intelligence. My expertise lies in designing scalable **Multi-Agent Orchestration (MAO)** systems and production-grade **Cloud Architectures**. I am a **Triple AWS Certified** professional with a track record of delivering measurable high-impact GenAI solutions.
-
-- 🤖 **Specialization**: Model Context Protocol (MCP), Agent-to-Agent (A2A) Protocols, and RAG Optimization.
-- 🥇 **Innovation**: Developer of **TRACE**, recognized in the **Top 15 GenAI Ideas** at a premier global tech firm.
-- ☁️ **Cloud**: AWS Solutions Architect, Data Engineer, and AI Practitioner.
-- 💻 **Open Source**: Author of **73+ repositories** in AI, Cloud, and Software Engineering.
-
----
-
-### 🏆 Featured Innovation Highlights
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=Real-Time-Face-Recognition-Based-Attendance-Monitoring-System&theme=tokyonight&title_color=bb2acf" alt="Face Recognition" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=BedRock-Model-ChatGpt&theme=tokyonight&title_color=bb2acf" alt="Bedrock GPT" />
+  <img src="https://komarev.com/ghpvc/?username=Srisrijakka1&label=Profile%20Views&color=bb2acf&style=plastic" alt="Profile Views" />
 </div>
 
 ---
 
-### 🛠️ Technical Tech-Stack
+### 🔥 The Manifesto
+I am a **Generative AI Engineer** at **Virtusa Corp**, dedicated to the pursuit of **Autonomous Enterprise Ecosystems**. I don't just build chatbots; I architect **Self-Thinking, Self-Healing Swarms** that redefine the Software Testing Life Cycle (STLC). My work is a blend of high-scale **Cloud Data Engineering** and cutting-edge **Multi-Agent Orchestration**.
+
+---
+
+### 🚀 Autonomous Agentic Vault (The 9-Agent Swarm)
+*My flagship innovation: A fully autonomous STLC orchestration engine built on Google-ADK & MCP.*
+
+- 🛰️ **Jira Orchestration**: Automated requirement extraction & status synchronization via SSE-based MCP.
+- 🧠 **Context & Knowledge**: Semantic relationship mapping using Knowledge Graphs.
+- 🧪 **Test Synthesis**: Automated brainstorming and script generation (**Playwright**).
+- 🛠️ **Self-Healing Loop**: Real-time error detection and autonomous code correction.
+- 📊 **Insight Hub**: Multi-dimensional report synthesis for executive stakeholders.
+
+---
+
+### 💎 Featured Technical Masterpieces
 <div align="center">
-  <img src="https://img.shields.io/badge/Agentic%20AI-Frameworks%20|%20Protocols-orange?style=for-the-badge&logo=ai" />
-  <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GenAI-RAG%20|%20LLMOps-blue?style=for-the-badge&logo=openai" />
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Enterprise-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=Real-Time-Face-Recognition-Based-Attendance-Monitoring-System&theme=tokyonight" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=BedRock-Model-ChatGpt&theme=tokyonight" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=UART-Design-simulation-using-verilog&theme=tokyonight" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=VEHICLE_NUMBER_PLATE_DETECTION_USING_OPENCV_BY_DIGITAL_IMAGE_PROCESSING&theme=tokyonight" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📊 Github Activity Matrix
+### 📊 Technical Power-Grid
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srisrijakka1&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Srisrijakka1&show_icons=true&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srisrijakka1&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Srisrijakka1&theme=tokyonight&column=3" alt="Trophies" />
+</div>
+
+---
+
+### 🌐 My contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srisrijakka1&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srisrijakka1&theme=tokyonight&margin-w=15" alt="Trophies" />
-</div>
-
 ---
 
-### 🏆 Selection of 21+ Portfolio Milestones
-- **TRACE**: Multi-model RAG platform for transcript & sentiment analytics.
-- **MISTA**: Real-time Medical Insurance Smart Assistant (Vector DB + Bedrock).
-- **Q-Code Converter**: Semantic code transformation (Oracle/Java) engine.
-- **Jira MCP Agent**: Fully autonomous Jira lifecycle orchestrator via SSE.
-- **Fuel Stream Engine**: Real-time data pipeline (Kinesis -> Glue -> Athena).
-- **Online Exam System**: Scalable Java-based enterprise examination portal.
-- **Vayuputra Exports**: Commercial full-stack React/Vite exporter website.
-
----
-
-### 📜 Certifications
-- ☁️ **AWS Certified AI Practitioner**
-- 🧩 **AWS Certified Data Engineer – Associate**
-- 🏗️ **AWS Certified Solutions Architect – Associate**
-- 💎 **OCI 2024 Generative AI Professional**
-- 🤖 **Virtusa Certified GenAI Practitioner & Test Engineer**
-
----
-
-### 🌐 Socials & Connect
+### 🛠️ Universal Tech Stack
 <p align="center">
-<a href="https://www.linkedin.com/in/srisri-jakka-8464a9224/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
-<a href="https://www.codechef.com/users/srisri24092002"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="CodeChef" height="40" width="50" /></a>
-<a href="https://codeforces.com/profile/srisri_j1"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="CodeForces" height="40" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/srisrijakka/profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="40" width="50" /></a>
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,aws,docker,jenkins,kafka,mysql,mongodb,react,vite,linux,github,vscode" />
 </p>
 
+- **AI/ML**: Gemini, LLaMA, Mistral, RAG, Fine-tuning, LangChain, Pinecone.
+- **Data Engineering**: Kinesis, Glue, Athena, S3, Redshift.
+- **Protocols**: MCP, A2A, JSON-RPC, SSE.
+
 ---
 
-### 📫 Contact
-- ✉️ **Email**: [srisri.jakka@gmail.com](mailto:srisri.jakka@gmail.com)
-- 🏢 Professional Inquiries Welcome
+### 🏆 Recognitions & Credentials
+- 🚀 **AWS AI Practitioner** | **AWS Data Engineer Associate** | **AWS Solutions Architect Associate**.
+- 🌟 **TRACE Project**: Virtusa **Top 15 GenAI Ideas** Global Recognition.
+- ⚡ **CodeChef**: 3-Star (Max 1649) | **HackerRank**: 4-Star Problem Solver.
+- 💎 **OCI 2024 Generative AI Professional**.
+
+---
+
+### 📧 Let's Collaborate
+- 📬 **Primary**: [srisri.jakka@gmail.com](mailto:srisri.jakka@gmail.com)
+- 🏢 Proudly Engineering at **Virtusa Corporation**.
 
 <div align="center">
-  <sub>Portfolio synthesized for professional excellence. Last Updated: March 2026.</sub>
+  <sub>Futuristic Portfolio Handcrafted for Excellence. March 2026.</sub>
 </div>
