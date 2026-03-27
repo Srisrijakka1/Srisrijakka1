@@ -24,26 +24,26 @@ As a **Generative AI Engineer**, I architect the autonomous future. My mission i
 
 ```mermaid
 graph LR
-    subgraph "Context Engine"
-        C1(["fa:fa-database Source Adapter"]) --- C2(["fa:fa-brain Semantic Resolver"])
+    subgraph "Knowledge Layer"
+        C1[Data Source Adapter] --> C2[Semantic Context Resolver]
     end
 
-    C2 --> O{{"fa:fa-microchip Master Orchestrator"}}
+    C2 --> O((Master Orchestrator))
 
     subgraph "Execution Hive"
-        O --> L1(["fa:fa-pen-nib Logic Designer"])
-        O --> L2(["fa:fa-code Artifact Generator"])
-        L2 --> E1(["fa:fa-play Process Executor"])
+        O --> L1[Logic Designer]
+        O --> L2[Artifact Generator]
+        L2 --> E1[Process Executor]
     end
 
     subgraph "Self-Healing Loop"
-        E1 --> H1(["fa:fa-heart-pulse Monitor"])
-        H1 -- "Failure Detected" --> H2(["fa:fa-magic Self-Healer"])
+        E1 --> H1[Health Monitor]
+        H1 -- "Fault Detected" --> H2[Self-Healer]
         H2 --> O
     end
 
     subgraph "Intelligence Delivery"
-        O --> R1(["fa:fa-chart-line Insight Hub"])
+        O --> R1[Insight Hub]
     end
 
     %% Styling
