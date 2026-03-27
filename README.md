@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 The Agentic Vision
-As a **Generative AI Engineer**, I architect the autonomous future. My mission is to build self-thinking ecosystems using **Multi-Agent Orchestration (MAO)**, **A2A Communication Protocols**, and **Model Context Protocol (MCP)**. I am a **Triple AWS Certified** professional and an **AWS AI Practitioner**.
+As a **Generative AI Engineer**, I architect the autonomous future. My mission is to build self-thinking ecosystems using **Multi-Agent Orchestration (MAO)**, **A2A Protocols**, and the **Model Context Protocol (MCP)**. I am a **Triple AWS Certified** professional and recognized for engineering high-impact GenAI solutions.
 
 - 🤖 **Agentic Pioneer**: Architecting multi-agent autonomous swarms for end-to-end SDLC/STLC workflows.
 - 🥇 **Recognition**: **TRACE Project** recognized in the **Top 15 GenAI Ideas** at a premier global technology firm.
@@ -19,38 +19,41 @@ As a **Generative AI Engineer**, I architect the autonomous future. My mission i
 
 ---
 
-### 🤖 The Neural Swarm: Multi-Agent Orchestration
-*A high-fidelity visualization of my autonomous agentic ecosystem for complex task automation and self-healing loops.*
+### 🤖 The Autonomous Multi-Agent Swarm
+*A state-of-the-art visualization of my architectural pattern for self-healing enterprise automation.*
 
 ```mermaid
-graph LR
-    subgraph "Knowledge Layer"
-        C1[Data Source Adapter] --> C2[Semantic Context Resolver]
+flowchart TB
+    O((fa:fa-rocket Master Orchestrator))
+    
+    subgraph Context ["📡 Context Engine"]
+        direction LR
+        C1[Source Adapter] --> C2[Semantic Resolver]
     end
 
-    C2 --> O((Master Orchestrator))
-
-    subgraph "Execution Hive"
-        O --> L1[Logic Designer]
-        O --> L2[Artifact Generator]
+    subgraph Logic ["⚙️ Execution Hive"]
+        direction LR
+        L1[Logic Designer] --> L2[Artifact Generator]
         L2 --> E1[Process Executor]
     end
 
-    subgraph "Self-Healing Loop"
-        E1 --> H1[Health Monitor]
-        H1 -- "Fault Detected" --> H2[Self-Healer]
-        H2 --> O
+    subgraph Healing ["🩹 Self-Healing Loop"]
+        direction LR
+        H1[Monitor] --> H2[Correction Agent]
     end
 
-    subgraph "Intelligence Delivery"
-        O --> R1[Insight Hub]
-    end
+    Context --> O
+    O --> Logic
+    Logic --> Healing
+    Healing -- "Failure Feedback" --> O
+    O -- "Delivered" --> R[fa:fa-check Insight Hub]
 
-    %% Styling
-    style O fill:#ff9900,stroke:#333,stroke-width:4px,color:#000
-    style H2 fill:#66cc99,stroke:#333,stroke-width:2px
-    style C2 fill:#3399ff,stroke:#333,stroke-width:2px
-    style R1 fill:#bb2acf,stroke:#333,stroke-width:2px
+    %% Color Scheme
+    style O fill:#ff6600,stroke:#fff,stroke-width:4px,color:#fff
+    style Context fill:#1f2937,stroke:#3b82f6,color:#fff
+    style Logic fill:#1f2937,stroke:#10b981,color:#fff
+    style Healing fill:#1f2937,stroke:#ef4444,color:#fff
+    style R fill:#8b5cf6,stroke:#fff,color:#fff
 ```
 
 ---
