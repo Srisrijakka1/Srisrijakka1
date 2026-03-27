@@ -1,14 +1,16 @@
-# 🚀 SRISRI JAKKA | Agentic AI Specialist & Cloud Architect
+# <p align="center">✨ SRISRI JAKKA | Agentic AI Specialist & Cloud Solutions Architect ✨</p>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iSrisrijakka1&label=Profile Views&color=blue&style=plastic" alt="Profile Views" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Srisrijakka1&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb2acf&icon_color=bb2acf&text_color=ffa500&bg_color=0d1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srisrijakka1&theme=tokyonight&hide_border=true&stroke=bb2acf&ring=ffa500&fire=ffa500&currStreakNum=ffa500" alt="Streak Stats" />
 </div>
 
 ---
 
-### 🧐 The Agentic Vision
-As a **Generative AI Engineer** at **Virtusa Corporation**, I architect the "Self-Thinking" Enterprise. My work revolves around **Multi-Agent Orchestration**, **RAG Optimization**, and **Serverless Cloud Infrastructure**. I am an early adopter of the **Model Context Protocol (MCP)** and the **Agent-to-Agent (A2A)** communication standard.
+### 🚀 The Agentic Vision
+As a **Generative AI Engineer** at **Virtusa Corporation**, I architect the autonomous future. My mission is to build self-thinking ecosystems using **Google-ADK**, **A2A Protocol**, and the **Model Context Protocol (MCP)**. I am a **Triple AWS Certified** professional with a **1000/1000 Perfect Score** as an AWS AI Practitioner.
 
 - 🤖 **Agentic Pioneer**: Architected a 9-agent autonomous STLC swarm using **Google-ADK**.
 - ☁️ **AWS Certified**: AI Practitioner (**Perfect 1000/1000 Score**), Data Engineer, and Solutions Architect.
@@ -17,27 +19,16 @@ As a **Generative AI Engineer** at **Virtusa Corporation**, I architect the "Sel
 
 ---
 
-### 🛠️ Technical Arsenal
-<div align="center">
-  <img src="https://img.shields.io/badge/Agentic%20AI-Google--ADK%20|%20A2A%20|%20MCP-orange?style=for-the-badge&logo=ai" />
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20|%20Data%20Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-Gemini%20|%20LLaMA%20|%20RAG-blue?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-Kinesis%20|%20Glue%20|%20Athena-232F3E?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
----
-
 ### 🤖 The 9-Agent Autonomous STLC Swarm
-*Visualizing my flagship multi-agent ecosystem designed for end-to-end testing lifecycle automation.*
+*Visualizing my flagship multi-agent ecosystem designed for end-to-end testing automation.*
 
 ```mermaid
 graph TD
-    subgraph "Orchestration (A2A Protocol)"
+    subgraph "Orchestration Layer (A2A Protocol)"
         O[Central Task Orchestrator]
     end
 
-    subgraph "Knowledge & Context"
+    subgraph "Information Gathering"
         A1[Jira SSE Agent] -->|User Stories| O
         A2[Knowledge Graph Agent] -->|App Context| O
     end
@@ -62,47 +53,74 @@ graph TD
 
 ---
 
-### 🏆 Key Project Showcases (Major Impacts)
-| Project | Role | Technical Highlight |
-| :--- | :--- | :--- |
-| **TRACE** | Architect | Top 15 GenAI Idea; Multi-model RAG with Mistral self-hosting on EC2. |
-| **MISTA** | Developer | Real-time Medical Insurance Smart Assistant using Pinecone Vector DB. |
-| **Face Recognition** | Lead | **27 Stars**; Real-time attendance with anti-spoofing and cloud logging. |
-| **Q-Code** | GenAI Dev | Semantic code migration suite (Oracle to Java/Postgres) using LLaMA. |
-| **Fuel Stream** | Data Eng | Real-time Kinesis-to-Athena pipeline processing 1000+ events/sec. |
-
----
-
-### 📜 Professional Verification
-- ☁️ **AWS Certified AI Practitioner** (Score: **1000/1000**)
-- 🧩 **AWS Certified Data Engineer – Associate**
-- 🏗️ **AWS Certified Solutions Architect – Associate**
-- 💎 **OCI 2024 Generative AI Professional**
-- 🤖 **Virtusa Certified GenAI Practitioner & Test Engineer**
-
----
-
-### 📊 Competitive Landscapes
+### 🛠️ Technical Arsenal
 <div align="center">
-  <img src="https://img.shields.io/badge/CodeChef-3%20Star%20(1649)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-4%20Star%20Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Google--ADK%20|%20A2A%20|%20MCP-orange?style=for-the-badge&logo=ai" />
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20|%20Data%20Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-Gemini%20|%20LLaMA%20|%20RAG-blue?style=for-the-badge&logo=openai" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Core%20|%20Enterprise-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-Kinesis%20|%20Glue%20|%20Athena-232F3E?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20|%20Terraform%20|%20Jenkins-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-<br/>
+---
 
+### 🏆 Portfolio Showcases (21+ Major Projects)
+
+#### 🌟 Flagship & Professional
+- **TRACE**: **Virtusa Top 15 GenAI Idea**. Multi-model RAG platform (YouTube/Review analytics).
+- **MISTA**: Medical Insurance Smart Assistant with 98% accuracy context-aware responses.
+- **Q-Code Converter**: Intelligent Oracle-to-Java/Postgres migration suite using LLaMA models.
+- **Fuel Stream Engine**: Real-time Kinesis-to-Athena pipeline for fuel station telemetry.
+- **Jira MCP Agent**: Fully autonomous Jira lifecycle manager via SSE-based MCP.
+
+#### 🧠 Machine Learning & Computer Vision
+- **Face Recognition Attendance**: **27 Stars**; Cloud-integrated system with anti-spoofing logic.
+- **Vehicle Plate Detection**: Dual implementation (OpenCV/Python & MATLAB) with live demo.
+- **Stock Price Predictor**: Time-series forecasting using Yahoo Finance API and ML.
+- **Survival Prediction**: Kaggle-top-percentile Titanic dataset classification.
+- **Multicloud Visualizer**: Vision-based recommendation engine for cloud architectures.
+
+#### ☕ Java & Enterprise Logic
+- **ATM Interface**: Full object-oriented simulation of banking security and transactions.
+- **Online Exam System**: Scalable examination portal with automatic grading and proctoring logs.
+- **Online Reservation**: Enterprise-grade booking logic for travel and accommodation.
+- **CLI Quiz Master Pro**: Persistent account-based quiz sessions with timed logic.
+
+#### 🌐 Web & Cloud Architecture
+- **Bedrock AI SPA**: Serverless query engine hosted on S3/CloudFront.
+- **SRK Bricks Portal**: Production-grade business portal with Lambda-backed APIs.
+- **Vayuputra Exports**: React/Vite based commercial website.
+- **AWS Terraform IaC**: Production-grade VPC and EC2 orchestration templates.
+
+---
+
+### 📊 Github Performance Metrics
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Srisrijakka1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=bb2acf" alt="Top Languages" />
+  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Srisrijakka1&theme=tokyonight&margin-w=15" alt="Trophies" />
 </div>
 
 ---
 
-### 📫 Connect & Collaborate
+### 🌐 Socials & Professional Links
 <p align="center">
-<a href="https://www.linkedin.com/in/srisri-jakka-8464a9224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:srisrijakka@virtusa.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Srisrijakka1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/srisri-jakka-8464a9224/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
+<a href="https://www.codechef.com/users/srisri24092002"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="CodeChef" height="40" width="50" /></a>
+<a href="https://codeforces.com/profile/srisri_j1"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="CodeForces" height="40" width="50" /></a>
+<a href="https://auth.geeksforgeeks.org/user/srisrijakka/profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="40" width="50" /></a>
 </p>
 
+---
+
+### 📫 Let's Collaborate!
+- ✉️ **Work**: [srisrijakka@virtusa.com](mailto:srisrijakka@virtusa.com)
+- 🏢 **Employee ID**: 8145698 (Virtusa Corporation)
+- 📍 **Based In**: Hyderabad, India
+
 <div align="center">
-  <sub>Futuristic Profile README synthesized via Antigravity 🤖 Last Updated: March 2026.</sub>
+  <sub>Futuristic Portfolio synthesized with precision. Last Updated: March 2026.</sub>
 </div>
