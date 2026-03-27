@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 The Agentic Vision
-As a **Generative AI Engineer**, I architect the autonomous future. My mission is to build self-thinking ecosystems using **Multi-Agent Orchestration (MAO)**, **A2A Communication Protocols**, and **Model Context Protocol (MCP)**. I am a **Triple AWS Certified** professional with a **1000/1000 Perfect Score** as an AWS AI Practitioner.
+As a **Generative AI Engineer**, I architect the autonomous future. My mission is to build self-thinking ecosystems using **Multi-Agent Orchestration (MAO)**, **A2A Communication Protocols**, and **Model Context Protocol (MCP)**. I am a **Triple AWS Certified** professional and an **AWS AI Practitioner**.
 
 - 🤖 **Agentic Pioneer**: Architecting multi-agent autonomous swarms for end-to-end SDLC/STLC workflows.
 - 🥇 **Recognition**: **TRACE Project** recognized in the **Top 15 GenAI Ideas** at a premier global technology firm.
@@ -19,36 +19,38 @@ As a **Generative AI Engineer**, I architect the autonomous future. My mission i
 
 ---
 
-### 🤖 Autonomous Multi-Agent Ecosystem
-*Abstract architecture of a scalable, self-healing agentic swarm intended for complex workflow automation.*
+### 🤖 The Neural Swarm: Multi-Agent Orchestration
+*A high-fidelity visualization of my autonomous agentic ecosystem for complex task automation and self-healing loops.*
 
 ```mermaid
-graph TD
-    subgraph "Orchestration & Command"
-        O[Master Agent Orchestrator]
+graph LR
+    subgraph "Context Engine"
+        C1(["fa:fa-database Source Adapter"]) --- C2(["fa:fa-brain Semantic Resolver"])
     end
 
-    subgraph "Context Ingestion"
-        A1[Source Data Adapter] -->|Task Context| O
-        A2[Semantic Graph Agent] -->|Workflow Relations| O
+    C2 --> O{{"fa:fa-microchip Master Orchestrator"}}
+
+    subgraph "Execution Hive"
+        O --> L1(["fa:fa-pen-nib Logic Designer"])
+        O --> L2(["fa:fa-code Artifact Generator"])
+        L2 --> E1(["fa:fa-play Process Executor"])
     end
 
-    subgraph "Execution & Autonomous Logic"
-        O --> A3[Synthesis Agent]
-        O --> A4[Logic Designer Agent]
-        A4 --> A5[Artifact Generator Agent]
-        A5 --> A6[Process Execution Agent]
-        A6 --> A7[Self-Correction Agent]
+    subgraph "Self-Healing Loop"
+        E1 --> H1(["fa:fa-heart-pulse Monitor"])
+        H1 -- "Failure Detected" --> H2(["fa:fa-magic Self-Healer"])
+        H2 --> O
     end
 
-    subgraph "Triage & Feedback"
-        A7 --> A8[Status Triage Agent]
-        A8 --> A9[Reporting Hub]
+    subgraph "Intelligence Delivery"
+        O --> R1(["fa:fa-chart-line Insight Hub"])
     end
 
-    style O fill:#f96,stroke:#333,stroke-width:4px,color:#fff
-    style A7 fill:#6eb,stroke:#333,stroke-width:2px
-    style A6 fill:#6eb,stroke:#333,stroke-width:2px
+    %% Styling
+    style O fill:#ff9900,stroke:#333,stroke-width:4px,color:#000
+    style H2 fill:#66cc99,stroke:#333,stroke-width:2px
+    style C2 fill:#3399ff,stroke:#333,stroke-width:2px
+    style R1 fill:#bb2acf,stroke:#333,stroke-width:2px
 ```
 
 ---
@@ -74,7 +76,7 @@ graph TD
 - **Semantic Code Suite**: AI-powered code transformation (Oracle/Java focus) using cutting-edge LLMs.
 - **Jira lifecycle Automation**: Full-stack autonomous agent utilizing MCP for project lifecycle management.
 
-#### 🧠 Computer Vision & ML
+#### 🧠 Machine Learning & Computer Vision
 - **Face Recognition Attendance**: **27 Stars**; Cloud-integrated system featuring advanced anti-spoofing algorithms.
 - **Autonomous Identification**: Vision-based detection systems implementing OpenCV and MATLAB.
 - **Market Predictor**: Time-series forecasting engine leveraging Financial APIs and ML models.
