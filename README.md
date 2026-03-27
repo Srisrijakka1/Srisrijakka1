@@ -10,40 +10,40 @@
 ---
 
 ### 🚀 The Agentic Vision
-As a **Generative AI Engineer** at **Virtusa Corporation**, I architect the autonomous future. My mission is to build self-thinking ecosystems using **Google-ADK**, **A2A Protocol**, and the **Model Context Protocol (MCP)**. I am a **Triple AWS Certified** professional with a **1000/1000 Perfect Score** as an AWS AI Practitioner.
+As a **Generative AI Engineer**, I architect the autonomous future. My mission is to build self-thinking ecosystems using **Multi-Agent Orchestration (MAO)**, **A2A Communication Protocols**, and **Model Context Protocol (MCP)**. I am a **Triple AWS Certified** professional with a **1000/1000 Perfect Score** as an AWS AI Practitioner.
 
-- 🤖 **Agentic Pioneer**: Architected a 9-agent autonomous STLC swarm using **Google-ADK**.
-- ☁️ **AWS Certified**: AI Practitioner (**Perfect 1000/1000 Score**), Data Engineer, and Solutions Architect.
-- 🥇 **Innovation**: My **TRACE** project was recognized in the **Top 15 GenAI Ideas** at Virtusa.
-- 💻 **Open Source**: Maintaining **73+ active repositories** spanning AI, Cloud, and Embedded Systems.
+- 🤖 **Agentic Pioneer**: Architecting multi-agent autonomous swarms for end-to-end SDLC/STLC workflows.
+- 🥇 **Recognition**: **TRACE Project** recognized in the **Top 15 GenAI Ideas** at a premier global technology firm.
+- ☁️ **Cloud Expertise**: Specialized in Serverless, RAG Pipelines, and Real-time Data Streaming.
+- 💎 **Credentials**: OCI GenAI Professional & Dual-Certified GenAI Practitioner/Test Engineer.
 
 ---
 
-### 🤖 The 9-Agent Autonomous STLC Swarm
-*Visualizing my flagship multi-agent ecosystem designed for end-to-end testing automation.*
+### 🤖 Autonomous Multi-Agent Ecosystem
+*Abstract architecture of a scalable, self-healing agentic swarm intended for complex workflow automation.*
 
 ```mermaid
 graph TD
-    subgraph "Orchestration Layer (A2A Protocol)"
-        O[Central Task Orchestrator]
+    subgraph "Orchestration & Command"
+        O[Master Agent Orchestrator]
     end
 
-    subgraph "Information Gathering"
-        A1[Jira SSE Agent] -->|User Stories| O
-        A2[Knowledge Graph Agent] -->|App Context| O
+    subgraph "Context Ingestion"
+        A1[Source Data Adapter] -->|Task Context| O
+        A2[Semantic Graph Agent] -->|Workflow Relations| O
     end
 
-    subgraph "Autonomous Engineering"
-        O --> A3[TestData Agent]
-        O --> A4[TestCase Agent]
-        A4 --> A5[TestScript Agent]
-        A5 --> A6[Playwright execution Agent]
-        A6 --> A7[Self-Healing Agent]
+    subgraph "Execution & Autonomous Logic"
+        O --> A3[Synthesis Agent]
+        O --> A4[Logic Designer Agent]
+        A4 --> A5[Artifact Generator Agent]
+        A5 --> A6[Process Execution Agent]
+        A6 --> A7[Self-Correction Agent]
     end
 
-    subgraph "Verification & Triage"
-        A7 --> A8[DefectTriage Agent]
-        A8 --> A9[Reporting Agent]
+    subgraph "Triage & Feedback"
+        A7 --> A8[Status Triage Agent]
+        A8 --> A9[Reporting Hub]
     end
 
     style O fill:#f96,stroke:#333,stroke-width:4px,color:#fff
@@ -53,47 +53,36 @@ graph TD
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Portfolio
 <div align="center">
-  <img src="https://img.shields.io/badge/Agentic%20AI-Google--ADK%20|%20A2A%20|%20MCP-orange?style=for-the-badge&logo=ai" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Research%20|%20A2A%20|%20MCP-orange?style=for-the-badge&logo=ai" />
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20|%20Data%20Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Generative%20AI-Gemini%20|%20LLaMA%20|%20RAG-blue?style=for-the-badge&logo=openai" />
   <br/>
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-Core%20|%20Enterprise-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Engineering-Kinesis%20|%20Glue%20|%20Athena-232F3E?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20|%20Terraform%20|%20Jenkins-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
 
-### 🏆 Portfolio Showcases (21+ Major Projects)
+### 🏆 Project Showcases (Selection of 21+ Major Impacts)
 
-#### 🌟 Flagship & Professional
-- **TRACE**: **Virtusa Top 15 GenAI Idea**. Multi-model RAG platform (YouTube/Review analytics).
-- **MISTA**: Medical Insurance Smart Assistant with 98% accuracy context-aware responses.
-- **Q-Code Converter**: Intelligent Oracle-to-Java/Postgres migration suite using LLaMA models.
-- **Fuel Stream Engine**: Real-time Kinesis-to-Athena pipeline for fuel station telemetry.
-- **Jira MCP Agent**: Fully autonomous Jira lifecycle manager via SSE-based MCP.
+#### 🌟 Advanced GenAI & RAG
+- **TRACE**: **Award-Winning RAG Platform**. Multi-model analytics for large-scale transcript/review processing.
+- **MISTA**: Medical Insurance Smart Assistant utilizing Vector Databases for real-time 98%+ accuracy response.
+- **Semantic Code Suite**: AI-powered code transformation (Oracle/Java focus) using cutting-edge LLMs.
+- **Jira lifecycle Automation**: Full-stack autonomous agent utilizing MCP for project lifecycle management.
 
-#### 🧠 Machine Learning & Computer Vision
-- **Face Recognition Attendance**: **27 Stars**; Cloud-integrated system with anti-spoofing logic.
-- **Vehicle Plate Detection**: Dual implementation (OpenCV/Python & MATLAB) with live demo.
-- **Stock Price Predictor**: Time-series forecasting using Yahoo Finance API and ML.
-- **Survival Prediction**: Kaggle-top-percentile Titanic dataset classification.
-- **Multicloud Visualizer**: Vision-based recommendation engine for cloud architectures.
+#### 🧠 Computer Vision & ML
+- **Face Recognition Attendance**: **27 Stars**; Cloud-integrated system featuring advanced anti-spoofing algorithms.
+- **Autonomous Identification**: Vision-based detection systems implementing OpenCV and MATLAB.
+- **Market Predictor**: Time-series forecasting engine leveraging Financial APIs and ML models.
 
-#### ☕ Java & Enterprise Logic
-- **ATM Interface**: Full object-oriented simulation of banking security and transactions.
-- **Online Exam System**: Scalable examination portal with automatic grading and proctoring logs.
-- **Online Reservation**: Enterprise-grade booking logic for travel and accommodation.
-- **CLI Quiz Master Pro**: Persistent account-based quiz sessions with timed logic.
-
-#### 🌐 Web & Cloud Architecture
-- **Bedrock AI SPA**: Serverless query engine hosted on S3/CloudFront.
-- **SRK Bricks Portal**: Production-grade business portal with Lambda-backed APIs.
-- **Vayuputra Exports**: React/Vite based commercial website.
-- **AWS Terraform IaC**: Production-grade VPC and EC2 orchestration templates.
+#### 🌐 Enterprise & Cloud
+- **Enterprise Booking Engine**: High-scale reservation logic built with Java Enterprise principles.
+- **Real-time Telemetry Hub**: AWS Kinesis data streaming pipeline for high-velocity industrial endpoints.
+- **Serverless AI Gateway**: Low-latency query interface architected with AWS Bedrock and Lambda.
 
 ---
 
@@ -116,11 +105,10 @@ graph TD
 
 ---
 
-### 📫 Let's Collaborate!
-- ✉️ **Work**: [srisrijakka@virtusa.com](mailto:srisrijakka@virtusa.com)
-- 🏢 **Employee ID**: 8145698 (Virtusa Corporation)
+### 📫 Let's Connect!
+- ✉️ **Contact**: [srisrijakka8@gmail.com](mailto:srisrijakka8@gmail.com)
 - 📍 **Based In**: Hyderabad, India
 
 <div align="center">
-  <sub>Futuristic Portfolio synthesized with precision. Last Updated: March 2026.</sub>
+  <sub>Portfolio synthesized with privacy-safe technical narratives. Last Updated: March 2026.</sub>
 </div>
