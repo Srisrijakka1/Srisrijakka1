@@ -1,14 +1,14 @@
 # <p align="center">🚀 SRISRI JAKKA | Agentic AI Specialist & Cloud Solutions Architect</p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iSrisrijakka1&label=Profile Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Srisrijakka1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Srisrijakka1&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb2acf&icon_color=bb2acf&text_color=ffa500&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srisrijakka1&show_icons=true&theme=tokyonight&title_color=bb2acf&icon_color=bb2acf&text_color=ffa500&bg_color=0d1117" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Srisrijakka1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=bb2acf" alt="Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srisrijakka1&theme=tokyonight&hide_border=true&stroke=bb2acf&ring=ffa500&fire=ffa500&currStreakNum=ffa500" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Srisrijakka1&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=bb2acf" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srisrijakka1&theme=tokyonight&stroke=bb2acf&ring=ffa500&fire=ffa500&currStreakNum=ffa500" alt="Streak Stats" />
 </div>
 
 ---
@@ -25,8 +25,8 @@ As a **Generative AI Engineer**, I bridge the gap between human intuition and au
 
 ### 🏆 Featured Innovation Highlights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=Real-Time-Face-Recognition-Based-Attendance-Monitoring-System&theme=tokyonight&hide_border=true&title_color=bb2acf" alt="Face Recognition" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=BedRock-Model-ChatGpt&theme=tokyonight&hide_border=true&title_color=bb2acf" alt="Bedrock GPT" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=Real-Time-Face-Recognition-Based-Attendance-Monitoring-System&theme=tokyonight&title_color=bb2acf" alt="Face Recognition" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=BedRock-Model-ChatGpt&theme=tokyonight&title_color=bb2acf" alt="Bedrock GPT" />
 </div>
 
 ---
@@ -46,7 +46,7 @@ As a **Generative AI Engineer**, I bridge the gap between human intuition and au
 
 ### 📊 Github Activity Matrix
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srisrijakka1&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srisrijakka1&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <div align="center">
@@ -86,7 +86,7 @@ As a **Generative AI Engineer**, I bridge the gap between human intuition and au
 ---
 
 ### 📫 Contact
-- ✉️ **Email**: [srisrijakka8@gmail.com](mailto:srisrijakka8@gmail.com)
+- ✉️ **Email**: [srisri.jakka@gmail.com](mailto:srisri.jakka@gmail.com)
 - 🏢 Professional Inquiries Welcome
 
 <div align="center">
