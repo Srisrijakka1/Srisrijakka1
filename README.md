@@ -31,12 +31,12 @@ I am a **Generative AI Engineer** at **Virtusa Corp**, dedicated to the pursuit 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=Real-Time-Face-Recognition-Based-Attendance-Monitoring-System&theme=tokyonight" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=BedRock-Model-ChatGpt&theme=tokyonight" /></td>
+      <td><img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Srisrijakka1&repo=Real-Time-Face-Recognition-Based-Attendance-Monitoring-System&theme=tokyonight" /></td>
+      <td><img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Srisrijakka1&repo=BedRock-Model-ChatGpt&theme=tokyonight" /></td>
     </tr>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=UART-Design-simulation-using-verilog&theme=tokyonight" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srisrijakka1&repo=VEHICLE_NUMBER_PLATE_DETECTION_USING_OPENCV_BY_DIGITAL_IMAGE_PROCESSING&theme=tokyonight" /></td>
+      <td><img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Srisrijakka1&repo=UART-Design-simulation-using-verilog&theme=tokyonight" /></td>
+      <td><img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Srisrijakka1&repo=VEHICLE_NUMBER_PLATE_DETECTION_USING_OPENCV_BY_DIGITAL_IMAGE_PROCESSING&theme=tokyonight" /></td>
     </tr>
   </table>
 </div>
@@ -45,13 +45,13 @@ I am a **Generative AI Engineer** at **Virtusa Corp**, dedicated to the pursuit 
 
 ### 📊 Technical Power-Grid
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srisrijakka1&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Srisrijakka1&show_icons=true&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Srisrijakka1&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs?username=Srisrijakka1&show_icons=true&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srisrijakka1&theme=tokyonight" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Srisrijakka1&theme=tokyonight&column=3" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=Srisrijakka1&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=Srisrijakka1&theme=tokyonight&column=3" alt="Trophies" />
 </div>
 
 ---
